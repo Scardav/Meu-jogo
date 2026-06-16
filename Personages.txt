@@ -2,3 +2,8 @@
 	Vida:25
 	Ataque:7 de dano de corte
 	Mana:5
+
+    #goblin
+	vida:20
+	Ataque:6
+	mana:4

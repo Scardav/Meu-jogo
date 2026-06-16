@@ -1,0 +1,4 @@
+    #Heroi
+	Vida:100
+	Ataque:50 de dano de corte
+	Mana:30

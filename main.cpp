@@ -3,6 +3,6 @@
 using namespace std;
 
 int main () {
-	cout << "Meu primeiro jogo" << endl;
-	
+	cout << "=========Seja Bem Vindo A=============" << endl;
+	cout << "=========Coronhadas simulator=========" << endl;
 }

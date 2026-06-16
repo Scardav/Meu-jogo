@@ -7,3 +7,7 @@
 	vida:20
 	Ataque:6
 	mana:4
+     #esqueleto
+	vida:29
+	ataque:6 
+	mana:10
